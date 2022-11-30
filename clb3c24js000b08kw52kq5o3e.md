@@ -1,11 +1,11 @@
 # How to create  a Linux Virtual Machine with Amazon Lightsail
 
-AWS LightSail is a platform as a service (PaaS) intended to provide a simple web user interface to Manage the Servers and basic configuration arround it.
+AWS LightSail is a platform as a service (PaaS) that provides a simple web user interface to manage the servers and basic configuration around it.
 
-It offers virtual servers, storage, databases, and networking, plus a cost-effective, monthly plan. It’s designed to help you start small, and then scale as you grow.
+It offers virtual servers, storage, databases, and networking, plus a cost-effective monthly plan. It’s designed to help you start small, and then scale as you grow.
 
-In this tutorial, you create an Amazon Linux instance in Amazon Lightsail.
-After the instance is up and running, you connect to it via SSH within the Lightsail console using the browser-based SSH terminal.
+In this tutorial, we will create an Amazon Linux instance in Amazon Lightsail.
+After the instance is up and running, we will connect to it via SSH within the Lightsail console using the browser-based SSH terminal.
 
 
 
