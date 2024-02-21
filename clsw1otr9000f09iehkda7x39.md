@@ -9,11 +9,13 @@ tags: aws, aws-community-builder
 
 It was such an amazing moment leading the design team to the AWS Community day held at Lagos, Nigeria.
 
-It was a great task having to contribute to such as amazing event with gathered over 1000 Cloud enthusiast. Aside being a cloud engineer I have design skills which I am always excited to contribute my skills to the cloud eco system.
+As a lover of design and technology, I volunteered as a designer in the AWS Community Day 2023
+
+It was a great task having to contribute to such as amazing event which gathered over 1000 Cloud enthusiast. Aside being a cloud engineer I have design skills which I am always excited to contribute the cloud eco system.
 
 **Highlight of the events:**
 
-1. I lead the design team in creating slides, adverts, campaigns, demonstrations and visuals that inspires and captivate the audience. It also help convey information that the audience can resonate with and these helps to break down complicated ideologies of the cloud
+1. I led the design team in creating slides, adverts, campaigns, demonstrations and visuals that inspires and captivate the audience. It also help convey information that the audience can resonate with and these helps to break down complicated ideologies of the cloud
     
 2. Aside my active participation in the design and publicity team. I also engaged in open discussion with other cloud enthusiast.
     
