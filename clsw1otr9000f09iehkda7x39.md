@@ -31,7 +31,7 @@ AWS Community Day is such an event that breeds creativity and lots of innovation
 
 I am excited for the opportunity to be part of something extra ordinary and I look forward to learning, growing, sharing knowledge with other AWS professionals in the community.
 
-Reference: [https://medium.com/aws-security-user-group-west-africa/aws-community-day-west-african-event-2023-report-9ab96943424b?source=collection\_home---6------1-----------------------](https://medium.com/aws-security-user-group-west-africa/aws-community-day-west-african-event-2023-report-9ab96943424b?source=collection_home---6------1-----------------------)
+[Reference here](https://medium.com/aws-security-user-group-west-africa/aws-community-day-west-african-event-2023-report-9ab96943424b?source=collection_home---6------1-----------------------)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707764228839/db7002e6-5b20-4197-b277-16f98bda3a8c.jpeg align="center")
 
